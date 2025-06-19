@@ -1,17 +1,18 @@
-<h1 align="center"> 🚀 Iliya Korotaev (@sunderrrrr) </h1>
-<h3 align="center"> Backend Dev | Go + Docker </h3>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/sunderrrrr/sunderrrrr/main/assets/banner.png" alt="Go Backend Dev">
+</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A5&width=435&lines=Разрабатываю+на+Go;Люблю+чистый+код;Verbify+—+мой+пет%2Dпроект" alt="Текст с анимацией">
-</p>
+## 👨‍💻 Обо мне
+- Пишу **чистый и эффективный код** на Go
+- Увлекаюсь **микросервисной архитектурой**
+- Автор проекта [Verbify](https://github.com/sunderrrrr/verbify)
 
-## 🔥 Проекты
-- **[Verbify](https://github.com/sunderrrrr/verbify)** – API для... (добавь описание)
+## 🌌 Стек
+| Навык       | Иконка                     |
+|-------------|----------------------------|
+| **Go**      | ![Go](https://skillicons.dev/icons?i=go) |
+| **Docker**  | ![Docker](https://skillicons.dev/icons?i=docker) |
+| **Postgres**| ![Postgres](https://skillicons.dev/icons?i=postgres) |
 
-## 🛠️ Стек
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,gin,docker,postgres,git" />
-</p>
-
-## 📈 Активность
-![Snake Animation](https://github.com/sunderrrrr/sunderrrrr/blob/output/github-contribution-grid-snake-dark.svg)
+## 📫 Контакты
+[![Telegram](https://img.shields.io/badge/-@bkmz7692-26A5E4?logo=telegram)](https://t.me/bkmz7692)
