@@ -1,16 +1,17 @@
-# 👋 Привет, я Iliya (sunderrrrr)!
-### Backend Developer (Go/Gin) | Docker Enthusiast
+<h1 align="center"> 🚀 Iliya Korotaev (@sunderrrrr) </h1>
+<h3 align="center"> Backend Dev | Go + Docker </h3>
 
-🚀 **Работаю над:** [Verbify](https://github.com/sunderrrrr/verbify) – микросервис для... (кратко опиши проект)  
-💡 **Изучаю:** Оптимизацию PostgreSQL, Kubernetes  
-📫 **Связь:** [Telegram](https://t.me/bkmz7692) | [Email](mailto:example@mail.com)  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A5&width=435&lines=Разрабатываю+на+Go;Люблю+чистый+код;Verbify+—+мой+пет%2Dпроект" alt="Текст с анимацией">
+</p>
+
+## 🔥 Проекты
+- **[Verbify](https://github.com/sunderrrrr/verbify)** – API для... (добавь описание)
 
 ## 🛠️ Стек
-![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/-Gin-009688?logo=go&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,gin,docker,postgres,git" />
+</p>
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=sunderrrrr&theme=default&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunderrrrr&layout=compact&theme=default)
+## 📈 Активность
+![Snake Animation](https://github.com/sunderrrrr/sunderrrrr/blob/output/github-contribution-grid-snake-dark.svg)
